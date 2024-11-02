@@ -24,4 +24,8 @@
 [![](https://img.shields.io/badge/-🍰%Cake%20Reservation%20App-000)](https://github.com/adamalston/Summarizer)
 [![](https://img.shields.io/badge/-🎵%20Spotify%20Statistics%20Viewer-000)](https://github.com/samuelchoi0522/New-Spotify-App)
 
-<a href="https://www.jaeminschoi.com/">![samuelchoi0522's Stats](https://github-readme-stats.vercel.app/api?username=samuelchoi0522&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)![samuelchoi0522's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelchoi0522&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)</a>
+<a href="https://www.jaeminschoi.com/">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelchoi0522&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" style="width:300px; height:auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelchoi0522&theme=tokyonight&hide_border=false" style="width:300px; height:auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelchoi0522&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" style="width:300px; height:auto;">
+</a>
