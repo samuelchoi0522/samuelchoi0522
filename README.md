@@ -21,7 +21,7 @@
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/samuelchoi0522/Personal-Website)
 [![](https://img.shields.io/badge/-🏢%20Hotel%20Reservation%20App-000)](https://github.com/samuelchoi0522/HONEY_HOTEL)
-[![](https://img.shields.io/badge/-🍰%Cake%20Reservation%20App-000)](https://github.com/adamalston/Summarizer)
+[![](https://img.shields.io/badge/-🍰%20Cake%20Reservation%20App-000)](https://github.com/adamalston/Summarizer)
 [![](https://img.shields.io/badge/-🎵%20Spotify%20Statistics%20Viewer-000)](https://github.com/samuelchoi0522/New-Spotify-App)
 
 <a href="https://www.jaeminschoi.com/">
