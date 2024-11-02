@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+![Visitor Count](https : //profile-counter.glitch.me/{samuelchoi0522}/count.svg)
 [![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.jaeminschoi.com/)<!-- If you want the template for my gif, email me! -->
 
 ### Languages
