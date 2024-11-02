@@ -1,21 +1,3 @@
-<table align="right">
-  <tr>
-    <td>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&repeat=false&width=435&lines=Visitor+Counter" alt="Typing SVG" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://profile-counter.glitch.me/{samuelchoi0522}/count.svg">
-        <img src="https://profile-counter.glitch.me/{samuelchoi0522}/count.svg" alt="Visitor Count"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
 [![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.jaeminschoi.com/)<!-- If you want the template for my gif, email me! -->
 
 ### Languages
