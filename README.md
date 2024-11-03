@@ -28,3 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=samuelchoi0522&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" style="width:auto; height:180px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelchoi0522&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" style="width:auto; height:180px;">
 </a>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelchoi0522)](https://github.com/anuraghazra/github-readme-stats)
